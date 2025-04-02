@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/token-auth-project.git
+   git clone https://github.com/m9reza/token-auth-project.git
    cd token-auth-project
 
 2. **Create a Virtual Environment (optional but recommended)**:
