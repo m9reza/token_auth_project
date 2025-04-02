@@ -53,40 +53,12 @@ Follow these steps to run the project locally:
 6. **Access the App**: Open your browser and go to http://127.0.0.1:8000/.
 
 
-
 ### Usage
 
 - Visit /register/ to create a new account.
 - Visit /login/ to log in with your credentials.
 - After logging in, you’ll be redirected to the homepage (/), where you can submit posts and view all posts.
 - Click "Logout" to end your session.
-
-### Project Structure
-
-token_auth_project/
-├── manage.py
-├── static/
-│   ├── css/
-│   │   └── styles.css
-│   └── images/
-├── templates/
-│   ├── login.html
-│   ├── register.html
-│   └── home.html
-├── token_auth_project/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── posts/
-│   ├── __init__.py
-│   ├── migrations/
-│   ├── models.py
-│   ├── token_manager.py
-│   └── views.py
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 ### Notes
 
